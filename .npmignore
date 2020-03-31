@@ -1,0 +1,5 @@
+demo/*
+.commitlintrc.json
+.editorconfig
+.huskyrc.json
+.DS_Store
