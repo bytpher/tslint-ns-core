@@ -1,4 +1,4 @@
-demo/*
+demo/
 .commitlintrc.json
 .editorconfig
 .huskyrc.json
