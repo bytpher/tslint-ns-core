@@ -1,0 +1,3 @@
+{
+  "extends": ["@bytpher/tslint-ns-core"]
+}

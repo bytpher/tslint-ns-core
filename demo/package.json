@@ -1,0 +1,30 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.demo",
+    "tns-android": {
+      "version": "6.5.0"
+    },
+    "tns-ios": {
+      "version": "6.5.0"
+    }
+  },
+  "main": "app.js",
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "@nativescript/theme": "~2.3.3",
+    "tns-core-modules": "~6.5.0"
+  },
+  "devDependencies": {
+    "@bytpher/tslint-ns-core": "file:..",
+    "nativescript-dev-webpack": "~1.5.1",
+    "prettier": "^2.0.2",
+    "prettier-tslint": "^0.4.2",
+    "pretty-quick": "^2.0.1",
+    "tslint": "^6.1.0",
+    "typescript": "~3.8.0"
+  },
+  "gitHead": "2250137db8c1e0bd0eb543e8e4563cb71480c00d",
+  "readme": "NativeScript Application"
+}

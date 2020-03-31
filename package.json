@@ -1,0 +1,54 @@
+{
+  "name": "@bytpher/tslint-ns-core",
+  "version": "1.0.0",
+  "description": "Recommended tslint configuration for NativeScript Core applications.",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bytpher/tslint-ns-core.git"
+  },
+  "keywords": [
+    "bytpher",
+    "tslint",
+    "nativescript",
+    "henry",
+    "chavez",
+    "angular",
+    "telerik",
+    "mobile",
+    "android",
+    "ios"
+  ],
+  "author": {
+    "name": "Henry Chavez",
+    "email": "henry.chavez@bytpher.com",
+    "url": "https://github.com/henrychavez"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytpher/tslint-ns-core/issues"
+  },
+  "homepage": "https://github.com/bytpher/tslint-ns-core#readme",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.3",
+    "standard-version": "^7.1.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.5.3"
+  },
+  "peerDependencies": {
+    "prettier": ">= 2.0.2",
+    "prettier-tslint": "^0.4.2",
+    "pretty-quick": "^2.0.1",
+    "tslint": ">= 5.20.0",
+    "typescript": ">= 3.5.3 < 4"
+  }
+}
