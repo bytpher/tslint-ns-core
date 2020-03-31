@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/bytpher/tslint-ns-core#readme",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version -t '' "
   },
   "dependencies": {
     "tslint-config-prettier": "^1.18.0",
