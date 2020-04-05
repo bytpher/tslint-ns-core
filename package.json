@@ -1,6 +1,6 @@
 {
   "name": "@bytpher/tslint-ns-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recommended tslint configuration for NativeScript Core applications.",
   "main": "tslint.json",
   "repository": {

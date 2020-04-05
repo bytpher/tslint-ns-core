@@ -202,7 +202,7 @@
     "no-consecutive-blank-lines": [true, 1],
     "file-name-casing": [true, "kebab-case"],
     "class-name": true,
-    "comment-format": [true, "check-space", "check-uppercase", "allow-trailing-lowercase"],
+    "comment-format": [true, "check-space"],
     "interface-name": [true, "never-prefix"],
     "variable-name": [
       true,
